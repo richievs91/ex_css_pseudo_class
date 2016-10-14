@@ -1,0 +1,16 @@
+li {
+	display: inline;
+}
+
+span {
+	display: block;
+	border: 1px solid black;
+	margin: 25px;
+}
+
+article.n-child {
+	border: 1px solid black;
+}
+
+
+
